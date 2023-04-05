@@ -7,8 +7,6 @@ https://mcreator.net/ - MCreator is a software used to make Minecraft Java Editi
 
 It is used worldwide by Minecraft players, aspiring mod developers, [for education, online classes, and STEM workshops](https://mcreator.net/education).
 
-## Download, community, and support
-
-This repository page is for people looking to contribute to MCreator. Visit https://mcreator.net/ to download MCreator distribution and to engage in the community. Check https://mcreator.net/support to find the support, forums, knowledge base, and more.
+Visit https://mcreator.net/ to download MCreator distribution and to engage in the community. Check https://mcreator.net/support to find the support, forums, knowledge base, and more.
 
 Download MCreator binary distributions on https://mcreator.net/download.
